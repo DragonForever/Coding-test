@@ -1,11 +1,17 @@
 This directory includes two part:
-part one : Data collection. You can find details on "Data Collection" directory
-           The wesite is  https://patient.info/forums/discuss/browse/abdominal-disorders-3321, and I have collected the most recent 20 posts and replies.  Design your preferred data structure to contain data on both post and replies.
-           Data structure includes:
+
+
+part one : 
+Data collection. You can find details on "Data Collection" directory
+The wesite is  https://patient.info/forums/discuss/browse/abdominal-disorders-3321, and I have collected the most recent 20 posts and replies.  Design your preferred data structure to contain data on both post and replies.
+Data structure includes:
            1.Post and their  reply text
            2.The Writer of the post or the Responder to Writer of a reply
            3. The datetime of the post/reply in the form 2019-03-20T18:17+00:00
-part two : Sentiment analysis on Large Movie Review Dataset. You can find details on " Sentiment Analysis" directory
-          Dataset details: http://ai.stanford.edu/~amaas/data/sentiment/
-          The whole process includes data preprocessing , features selection and modeling. I have tried models like XGboost, TF-IDF, wordvectors . And got an accurcy of 88% finally
+
+
+part two : 
+Sentiment analysis on Large Movie Review Dataset. You can find details on " Sentiment Analysis" directory
+Dataset details: http://ai.stanford.edu/~amaas/data/sentiment/
+The whole process includes data preprocessing , features selection and modeling. I have tried models like XGboost, TF-IDF, wordvectors . And got an accurcy of 88% finally
           
